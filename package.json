@@ -1,0 +1,31 @@
+{
+    "author": "Smalara",
+    "dependencies": {},
+    "keywords": [],
+    "name": "emotionalism",
+    "pebble": {
+        "displayName": "OG Emotionalism",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/backgound image",
+                    "name": "BACKGROUND",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "88c1ac1f-f5cd-43d8-9737-b016f7676ce7",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
